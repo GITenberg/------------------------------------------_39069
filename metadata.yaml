@@ -1,0 +1,30 @@
+_repo: '------------------------------------------_39069'
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trikoupes, Spyridon
+    aliases:
+    - Τρικούπης, Σπυρίδων
+    - Trikoupis, Spyridon
+    birthdate: 1788
+    deathdate: 1873
+    gutenberg_agent_id: '39455'
+    url: http://www.gutenberg.org/2009/agents/39455
+    wikipedia: http://el.wikipedia.org/wiki/%CE%A3%CF%80%CF%85%CF%81%CE%AF%CE%B4%CF%89%CE%BD_%CE%A4%CF%81%CE%B9%CE%BA%CE%BF%CF%8D%CF%80%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2012-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39069'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Greece -- History -- War of Independence, 1821-1829'
+- !lcc 'DF'
+title: Ιστορία της Ελληνικής Επαναστάσεως, Τόμος Δ
+url: http://www.gutenberg.org/ebooks/39069

@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39455
     wikipedia: http://el.wikipedia.org/wiki/%CE%A3%CF%80%CF%85%CF%81%CE%AF%CE%B4%CF%89%CE%BD_%CE%A4%CF%81%CE%B9%CE%BA%CE%BF%CF%8D%CF%80%CE%B7%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39069#------------------------------------------
 gutenberg_issued: '2012-03-06'
 gutenberg_type: Text
 identifiers:
